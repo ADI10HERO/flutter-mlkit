@@ -1,0 +1,4 @@
+#Mon Jul 01 17:28:36 IST 2019
+base.0=D\:\\ADI\\FlutterProjects\\ml_kit_intro\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
